@@ -1,0 +1,34 @@
+{
+  "name": "xhipment_assignment",
+  "version": "1.0.0",
+  "description": "<<Assignment\r You are building a server-side application to manage a job board for software developers. The application should have the following",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RINTU5500U/xhipment_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RINTU5500U/xhipment_assignment/issues"
+  },
+  "homepage": "https://github.com/RINTU5500U/xhipment_assignment#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1290.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "marked": "^4.2.5",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-text": "0.0.7",
+    "showdown": "^2.1.0"
+  }
+}
