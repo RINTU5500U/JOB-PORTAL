@@ -21,6 +21,8 @@
     "aws-sdk": "^2.1290.0",
     "body-parser": "^1.20.1",
     "express": "^4.18.2",
+    "joi": "^17.7.0",
+    "joi-objectid": "^4.0.2",
     "jsonwebtoken": "^9.0.0",
     "marked": "^4.2.5",
     "moment": "^2.29.4",
