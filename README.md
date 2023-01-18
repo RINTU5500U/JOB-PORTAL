@@ -16,7 +16,7 @@ You are building a server-side application to manage a job board for software de
 6. The application should be built using Node.js and Express, and should persist data using a MongoDB database. It should expose a 
    RESTful API for clients to access the job postings and applications.
 
-<<Requirements:
+<<Requirements: 
 1. Use Node.js and Express to build the application.
 2. Use MongoDB to store and retrieve data.
 3. Expose a RESTful API for clients to access the job postings and applications.
