@@ -29,15 +29,3 @@ You are building a server-side application to manage a job board for software de
 2. Allow users to edit and delete their own job postings and applications.
 3. Add pagination to the list of job postings and applications.
 4. Implement a search feature for the job postings.
-
-<<Evaluation:
-# Your submission will be evaluated based on the following criteria:
-1. Correct functionality of the application
-2. Proper use of Node.js, Express, MongoDB, and RESTful API design
-3. Proper implementation of routing and RESTful API design
-4. Proper error handling and input validation
-5. Use of Markdown to render cover letters
-6. Code quality and organization
-7. If you complete the bonus tasks, your submission will also be evaluated on the implementation of authentication, authorization, 
-   pagination, and search.
-# For Submissions and Queries about the assignment, please send an email to - akash@xhipment.com and bharat@xhipment.com
